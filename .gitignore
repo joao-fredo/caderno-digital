@@ -1,0 +1,13 @@
+# Arquivos de compilação e código fonte do LaTeX
+*.aux
+*.log
+*.synctex.gz
+*.tex
+
+# Outros arquivos temporários comuns do LaTeX (caso apareçam no futuro)
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
